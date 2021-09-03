@@ -2,7 +2,6 @@
 Python and Data Science Specialization by University of Michigan.
 
 Specialization 01: Python for Everybody
-
 Course 1: Programming for Everybody
 
 Course 2: Python Data Structures
